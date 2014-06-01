@@ -1,6 +1,7 @@
 @import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
-@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:700);
-
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400);
+@import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 html {
   background: url('image/dimension.png');
   height: 100%;
@@ -10,7 +11,7 @@ body {
   width: 960px;
   margin: 0 auto;
   padding: 1em;
-  font-family: 'Source Code Pro';
+  font-family: 'Yanone Kaffeesatz';
   background: white;
   min-height: 100%;
   border: 1px solid black;
@@ -72,7 +73,7 @@ a:hover {
 }
 
 #gh-weblog-container textarea {
-  font-family: 'Source Code Pro';
+  font-family: 'Ubuntu Mono';
   font-size: 1em;
 }
 
