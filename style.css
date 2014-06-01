@@ -34,11 +34,11 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Share Tech Mono';
+  font-family: 'Lucida Console';
 }
 
 header h1 {
-  font-family: 'Share Tech Mono';
+  font-family: 'Lucida Console';
 }
 
 #gh-weblog-container .entries .content:before {
