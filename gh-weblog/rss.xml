@@ -4,10 +4,19 @@
 <title>jdotpz.github.io</title>
 <description>jdotpz.github.io</description>
 <link>https://jdotpz.github.io/</link>
-<lastBuildDate>Sat May 31 2014 20:00:17 GMT-0500 (CDT)</lastBuildDate>
-<pubDate>Sat May 31 2014 20:00:17 GMT-0500 (CDT)</pubDate>
+<lastBuildDate>Sat May 31 2014 22:37:50 GMT-0500 (CDT)</lastBuildDate>
+<pubDate>Sat May 31 2014 22:37:50 GMT-0500 (CDT)</pubDate>
 <ttl>1440</ttl>
 <item>
+<title>Stooge shames me into adding security headers</title>
+<category>ssl</category>
+<category>security</category>
+<category>tools</category>
+<category>apps</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401584196277</link>
+<guid>1401584196277</guid>
+<pubDate>Sat May 31 2014 19:56:36 GMT-0500 (CDT)</pubDate>
+</item><item>
 <title> Made a list of some of my favorite tools/apps/services</title>
 <category>devops</category>
 <category>tools</category>
@@ -81,11 +90,15 @@
 <guid>1401567284560</guid>
 <pubDate>Sat May 31 2014 15:14:44 GMT-0500 (CDT)</pubDate>
 </item><item>
-<title>Stooge shames me into adding security headers</title>
-<category>no tags yet</category>
-<link>https://jdotpz.github.io/#gh-weblog-1401584196277</link>
-<guid>1401584196277</guid>
-<pubDate>Sat May 31 2014 19:56:36 GMT-0500 (CDT)</pubDate>
+<title>New Entry</title>
+<category>lol</category>
+<category>noob</category>
+<category>learning</category>
+<category>css</category>
+<category>fonts</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401593783256</link>
+<guid>1401593783256</guid>
+<pubDate>Sat May 31 2014 22:36:23 GMT-0500 (CDT)</pubDate>
 </item>
 </channel>
 </rss>
