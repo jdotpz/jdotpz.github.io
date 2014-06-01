@@ -1,6 +1,7 @@
 @import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
 @import url('http://fonts.googleapis.com/css?family=Ubuntu+Mono');
 @import url('http://fonts.googleapis.com/css?family=Share+Tech+Mono');
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:700);
 
 html {
   background: url('image/dimension.png');
@@ -34,11 +35,11 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Ubuntu Mono';
+  font-family: 'Titillium Web';
 }
 
 header h1 {
-  font-family: 'Share Tech Mono';
+  font-family: 'Titillium Web';
 }
 
 #gh-weblog-container .entries .content:before {
