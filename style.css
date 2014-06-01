@@ -10,7 +10,7 @@ body {
   width: 960px;
   margin: 0 auto;
   padding: 1em;
-  font-family: Source+Code+Pro;
+  font-family: 'Source Code Pro';
   background: white;
   min-height: 100%;
   border: 1px solid black;
@@ -33,11 +33,11 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: Share+Tech+Mono;
+  font-family: 'Share Tech Mono';
 }
 
 header h1 {
-  font-family: 'Share+Tech+Mono';
+  font-family: 'Share Tech Mono';
 }
 
 #gh-weblog-container .entries .content:before {
@@ -72,7 +72,7 @@ a:hover {
 }
 
 #gh-weblog-container textarea {
-  font-family: Source+Code+Pro;
+  font-family: 'Source Code Pro';
   font-size: 1em;
 }
 
