@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400);
 @import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
-@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400);
 
 body {
   padding:50px;

@@ -1,7 +1,7 @@
 @import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
 @import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400);
 @import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
-@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+
 html {
   background: url('image/dimension.png');
   height: 100%;
@@ -11,7 +11,7 @@ body {
   width: 960px;
   margin: 0 auto;
   padding: 1em;
-  font-family: 'Yanone Kaffeesatz';
+  font-family: 'Ubuntu Mono';
   background: white;
   min-height: 100%;
   border: 1px solid black;
@@ -34,11 +34,11 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Ubuntu Mono';
+  font-family: 'Share Tech Mono';
 }
 
 header h1 {
-  font-family: 'Ubuntu Mono';
+  font-family: 'Share Tech Mono';
 }
 
 #gh-weblog-container .entries .content:before {
