@@ -1,4 +1,1 @@
-jdotpz.github.io
-================
-
-DevOps notes
+repo for https://jdotpz.github.io

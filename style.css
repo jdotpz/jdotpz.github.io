@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Lustria');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Eagle+Lake');
+
+html {
+  background: url('image/dimension.png');
+  height: 100%;
+}
+
+body {
+  width: 960px;
+  margin: 0 auto;
+  padding: 1em;
+  font-family: Lato;
+  background: white;
+  min-height: 100%;
+  border: 1px solid black;
+  border-width: 0 1px;
+  box-shadow: 0 0 50px 5px gray;
+}
+
+.gh-weblog-header h1 {
+	display: none;
+}
+
+.gh-weblog-header {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.gh-weblog-header button.credentials {
+  border: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: Lustria;
+}
+
+header h1 {
+  font-family: 'Eagle Lake';
+}
+
+#gh-weblog-container .entries .content:before {
+  display: none;
+}
+
+#gh-weblog-container .entry .content {
+  text-align: justify;
+}
+
+#gh-weblog-container .entry  + .entry {
+  margin-top: 2em;
+}
+
+#gh-weblog-container .entry div.tags,
+#gh-weblog-container .entry div.comments {
+  font-size: 80%;
+  margin: 1.25em 0 0 0;
+}
+
+#gh-weblog-container .entry div.tags {
+  float: right;
+  color: rgb(116, 144, 154);
+}
+
+a, a:active, a:hover, a:visited {
+  text-decoration: none;
+  color: rgb(100,180,230);
+}
+a:hover {
+  color: rgb(80,140,200);
+}
+
+#gh-weblog-container textarea {
+  font-family: Lato;
+  font-size: 1em;
+}
+
+#gh-weblog-container .entries .info a,
+#gh-weblog-container .entries .info a:active,
+#gh-weblog-container .entries .info a:hover,
+#gh-weblog-container .entries .info a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+#gh-weblog-container .entries .info a:hover {
+  color: rgb(80, 109, 137);
+}
+
+.suppressed {
+  display: none!important;
+}

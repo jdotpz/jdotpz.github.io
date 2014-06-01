@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+  <head>
+    <script>
+      // force HTTPS if we're on HTTP (and not localhost)
+      (function() {
+        if(window.location.hostname !== "localhost" && window.location.protocol === "http:") {
+          window.location = window.location.toString().replace("http:","https:");
+        }
+      }());
+    </script>
+    <meta charset="utf-8">
+    <title>jdotpz.github.io</title>
+    <link rel="stylesheet" href="gh-weblog/styles/style.css" media="screen">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body class="default">
+    <header>
+      <h1><a href="/">jdotpz.github.io</a></h1>
+      <h3>Too short and sweet for blog.jdotp.org the former jdotpz.github.io (Also available in <a href="gh-weblog/rss.xml">RSS</a>).</h3>
+    </header>
+    <main>
+      <div id="gh-weblog-container"></div>
+    </main>
+  </body>
+
+  <!-- scripts come last -->
+  <script src="gh-weblog/js/jquery.js"></script>
+  <script src="gh-weblog/js/octokit.js"></script>
+
+  <!-- MathJax for beautiful LaTeX functions -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      displayAlign: "left",
+      displayIndent: "2em",
+      TeX: {
+        extensions: ["color.js"]
+      }
+    });
+  </script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.3/MathJax.js?config=TeX-AMS_HTML"></script>
+  <script>
+  // markdown turns ` into <code>, and we don't want that for LaTeX
+  function cleanMath(element) {
+		var s = element.innerHTML;
+		s = s.replace(/<code>\\\[/g, '\\[');
+		s = s.replace(/\\\]<\/code>/g, '\\]');
+		element.innerHTML = s;
+  }
+  // do MathJax stuffs
+  function processMath(element) {
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, element]);
+  }
+  // processing <style> blocks
+  function processStyle(element) {
+    var s = element.innerHTML
+    s = s.replace("<p>{{style}}", "<style>")
+         .replace("{{/style}}</p>","</style>")
+         .replace(/url\(<a href="[^"]+">([^<]+)<\/a>\)/, "url($1)");
+    element.innerHTML = s;
+  }
+  </script>
+  <script src="gh-weblog/js/main.js"
+          onload="setupWebLog({
+            username: 'jdotpz',
+            repo: 'jdotpz.github.io',
+            branch: 'master',
+            path: 'gh-weblog',
+            order: 'newest',
+            processors: ['cleanMath', 'processMath', 'processStyle', 'processMath']})"
+          async></script>
+</html>

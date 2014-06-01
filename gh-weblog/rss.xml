@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>jdotpz.github.io</title>
+<description>jdotpz.github.io</description>
+<link>https://jdotpz.github.io/</link>
+<lastBuildDate>Sat May 31 2014 18:08:48 GMT-0500 (CDT)</lastBuildDate>
+<pubDate>Sat May 31 2014 18:08:48 GMT-0500 (CDT)</pubDate>
+<ttl>1440</ttl>
+<item>
+<title>LOLOLOL.in (the million dollar startup idea)</title>
+<category>apps</category>
+<category>links</category>
+<category>gifs</category>
+<category>lol</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401576303515</link>
+<guid>1401576303515</guid>
+<pubDate>Sat May 31 2014 17:45:03 GMT-0500 (CDT)</pubDate>
+</item><item>
+<title>Documenting DevOps in a public wiki</title>
+<category>documentation</category>
+<category>devops</category>
+<category>wiki</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401575965124</link>
+<guid>1401575965124</guid>
+<pubDate>Sat May 31 2014 17:39:25 GMT-0500 (CDT)</pubDate>
+</item><item>
+<title>Introducing My First Node.JS App, http_helper</title>
+<category>no tags yet</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401575160791</link>
+<guid>1401575160791</guid>
+<pubDate>Sat May 31 2014 17:26:00 GMT-0500 (CDT)</pubDate>
+</item><item>
+<title>More security, more learning Node.JS</title>
+<category>no tags yet</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401574655165</link>
+<guid>1401574655165</guid>
+<pubDate>Sat May 31 2014 17:17:35 GMT-0500 (CDT)</pubDate>
+</item><item>
+<title>SSL Security rating A?  Why not A+?</title>
+<category>ssl</category>
+<category>elb</category>
+<category>security</category>
+<category>ciphers</category>
+<category>loadbalancer</category>
+<category>loadbalancing</category>
+<category>aws</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401574207041</link>
+<guid>1401574207041</guid>
+<pubDate>Sat May 31 2014 17:10:07 GMT-0500 (CDT)</pubDate>
+</item><item>
+<title>Bondable looks pretty sweet</title>
+<category>no tags yet</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401567352368</link>
+<guid>1401567352368</guid>
+<pubDate>Sat May 31 2014 15:15:52 GMT-0500 (CDT)</pubDate>
+</item><item>
+<title>Too long for a tweet, not long enough for a proper blog entry</title>
+<category>no tags yet</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401567284560</link>
+<guid>1401567284560</guid>
+<pubDate>Sat May 31 2014 15:14:44 GMT-0500 (CDT)</pubDate>
+</item><item>
+<title>Cards Against Humanity, For DevOps</title>
+<category>no tags yet</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401577463015</link>
+<guid>1401577463015</guid>
+<pubDate>Sat May 31 2014 18:04:23 GMT-0500 (CDT)</pubDate>
+</item>
+</channel>
+</rss>

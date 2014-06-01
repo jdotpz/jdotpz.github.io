@@ -1,0 +1,15 @@
+<div class="weblog entry{% if pending %} pending{% endif %} needstoken" id="gh-weblog-{{ published }}">
+	<div class="info">
+    <a href="#gh-weblog-{{ published}}">
+      <span>originally published: {{ published | readableDate }}</span>
+      <span>last updated: {{ updated | readableDate }}</span>
+    </a>
+    <button class="needstoken" onclick="window['gh-weblog'].removeEntry({{ published }})">Remove entry</button>
+  </div>
+  <div>
+    <div class="content" data-prefix="{{ published | shortDate }}">{{ content | cleanHTML }}</div>
+    <div class="comments">No rights reserved at all, all opinions likely someone elses</a>.</div>
+    <div class="tags">{{ tags }}</div>
+    <textarea class="hidden original content">{{ content }}</textarea>
+  </div>
+</div>
