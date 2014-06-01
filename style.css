@@ -1,6 +1,6 @@
 @import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
-@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400);
-@import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
+@import url('http://fonts.googleapis.com/css?family=Ubuntu+Mono');
+@import url('http://fonts.googleapis.com/css?family=Share+Tech+Mono');
 
 html {
   background: url('image/dimension.png');
@@ -73,7 +73,7 @@ a:hover {
 }
 
 #gh-weblog-container textarea {
-  font-family: 'Ubuntu Mono';
+  font-family: 'Source Code Pro';
   font-size: 1em;
 }
 
