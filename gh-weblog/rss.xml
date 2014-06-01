@@ -4,10 +4,16 @@
 <title>jdotpz.github.io</title>
 <description>jdotpz.github.io</description>
 <link>https://jdotpz.github.io/</link>
-<lastBuildDate>Sun Jun 01 2014 06:22:41 GMT-0500 (CDT)</lastBuildDate>
-<pubDate>Sun Jun 01 2014 06:22:41 GMT-0500 (CDT)</pubDate>
+<lastBuildDate>Sun Jun 01 2014 06:57:37 GMT-0500 (CDT)</lastBuildDate>
+<pubDate>Sun Jun 01 2014 06:57:37 GMT-0500 (CDT)</pubDate>
 <ttl>1440</ttl>
 <item>
+<title>Google will now render all of our Javascript for indexing</title>
+<category>no tags yet</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401621650114</link>
+<guid>1401621650114</guid>
+<pubDate>Sun Jun 01 2014 06:20:50 GMT-0500 (CDT)</pubDate>
+</item><item>
 <title>Want To Try This Blogging App?</title>
 <category>blog</category>
 <category>app</category>
@@ -117,7 +123,13 @@
 <pubDate>Sat May 31 2014 17:10:07 GMT-0500 (CDT)</pubDate>
 </item><item>
 <title>Bondable looks pretty sweet</title>
-<category>no tags yet</category>
+<category>tools</category>
+<category>apps</category>
+<category>services</category>
+<category>bugzilla</category>
+<category>github</category>
+<category>issues</category>
+<category>kanban</category>
 <link>https://jdotpz.github.io/#gh-weblog-1401567352368</link>
 <guid>1401567352368</guid>
 <pubDate>Sat May 31 2014 15:15:52 GMT-0500 (CDT)</pubDate>
@@ -128,11 +140,11 @@
 <guid>1401567284560</guid>
 <pubDate>Sat May 31 2014 15:14:44 GMT-0500 (CDT)</pubDate>
 </item><item>
-<title>Google will now render all of our Javascript for indexing</title>
+<title>You Better Make</title>
 <category>no tags yet</category>
-<link>https://jdotpz.github.io/#gh-weblog-1401621650114</link>
-<guid>1401621650114</guid>
-<pubDate>Sun Jun 01 2014 06:20:50 GMT-0500 (CDT)</pubDate>
+<link>https://jdotpz.github.io/#gh-weblog-1401623757565</link>
+<guid>1401623757565</guid>
+<pubDate>Sun Jun 01 2014 06:55:57 GMT-0500 (CDT)</pubDate>
 </item>
 </channel>
 </rss>
