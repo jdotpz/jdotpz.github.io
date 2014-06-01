@@ -1,6 +1,5 @@
 @import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
-@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-@import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:700);
 
 html {
   background: url('image/dimension.png');
@@ -34,11 +33,11 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Lucida Console';
+  font-family: 'Ubuntu Mono';
 }
 
 header h1 {
-  font-family: 'Lucida Console';
+  font-family: 'Ubuntu Mono';
 }
 
 #gh-weblog-container .entries .content:before {
