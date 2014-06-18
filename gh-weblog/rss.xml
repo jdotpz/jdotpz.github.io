@@ -4,10 +4,25 @@
 <title>jdotpz.github.io</title>
 <description>jdotpz.github.io</description>
 <link>https://jdotpz.github.io/</link>
-<lastBuildDate>Thu Jun 05 2014 11:35:35 GMT-0500 (CDT)</lastBuildDate>
-<pubDate>Thu Jun 05 2014 11:35:35 GMT-0500 (CDT)</pubDate>
+<lastBuildDate>Wed Jun 18 2014 00:34:01 GMT-0500 (CDT)</lastBuildDate>
+<pubDate>Wed Jun 18 2014 00:34:01 GMT-0500 (CDT)</pubDate>
 <ttl>1440</ttl>
 <item>
+<title>New Elasticsearch Infrastructure for Our Logging</title>
+<category>no tags yet</category>
+<link>https://jdotpz.github.io/#gh-weblog-1402498716135</link>
+<guid>1402498716135</guid>
+<pubDate>Wed Jun 11 2014 09:58:36 GMT-0500 (CDT)</pubDate>
+</item><item>
+<title>Time to Patch SSL Again</title>
+<category>security</category>
+<category>ssl</category>
+<category>openssl</category>
+<category>vulnerability</category>
+<link>https://jdotpz.github.io/#gh-weblog-1401985880435</link>
+<guid>1401985880435</guid>
+<pubDate>Thu Jun 05 2014 11:31:20 GMT-0500 (CDT)</pubDate>
+</item><item>
 <title>The Way Webmaker Downtime Looked Today</title>
 <category>devops</category>
 <category>webmaker</category>
@@ -167,24 +182,6 @@
 <link>https://jdotpz.github.io/#gh-weblog-1401575160791</link>
 <guid>1401575160791</guid>
 <pubDate>Sat May 31 2014 17:26:00 GMT-0500 (CDT)</pubDate>
-</item><item>
-<title>More security, more learning Node.JS</title>
-<category>no tags yet</category>
-<link>https://jdotpz.github.io/#gh-weblog-1401574655165</link>
-<guid>1401574655165</guid>
-<pubDate>Sat May 31 2014 17:17:35 GMT-0500 (CDT)</pubDate>
-</item><item>
-<title>SSL Security rating A?  Why not A+?</title>
-<category>ssl</category>
-<category>elb</category>
-<category>security</category>
-<category>ciphers</category>
-<category>loadbalancer</category>
-<category>loadbalancing</category>
-<category>aws</category>
-<link>https://jdotpz.github.io/#gh-weblog-1401574207041</link>
-<guid>1401574207041</guid>
-<pubDate>Sat May 31 2014 17:10:07 GMT-0500 (CDT)</pubDate>
 </item>
 </channel>
 </rss>
