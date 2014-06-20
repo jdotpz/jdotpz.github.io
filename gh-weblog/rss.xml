@@ -3,11 +3,17 @@
 <channel>
 <title>jdotpz.github.io</title>
 <description>jdotpz.github.io</description>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535</link>
-<lastBuildDate>Wed Jun 18 2014 01:19:51 GMT-0500 (CDT)</lastBuildDate>
-<pubDate>Wed Jun 18 2014 01:19:51 GMT-0500 (CDT)</pubDate>
+<link>https://jdotpz.github.io/</link>
+<lastBuildDate>Fri Jun 20 2014 01:35:47 GMT-0500 (CDT)</lastBuildDate>
+<pubDate>Fri Jun 20 2014 01:35:47 GMT-0500 (CDT)</pubDate>
 <ttl>1440</ttl>
 <item>
+<title> Work Hard So You Don't Have to Work So Hard</title>
+<category>no tags yet</category>
+<link>https://jdotpz.github.io/#gh-weblog-1403072322833</link>
+<guid>1403072322833</guid>
+<pubDate>Wed Jun 18 2014 01:18:42 GMT-0500 (CDT)</pubDate>
+</item><item>
 <title>Loggins - *This is it!*</title>
 <category>elk</category>
 <category>elasticsearch</category>
@@ -15,13 +21,13 @@
 <category>metrics</category>
 <category>monitoring</category>
 <category>devops</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1403069616535</link>
+<link>https://jdotpz.github.io/#gh-weblog-1403069616535</link>
 <guid>1403069616535</guid>
 <pubDate>Wed Jun 18 2014 00:33:36 GMT-0500 (CDT)</pubDate>
 </item><item>
 <title>New Elasticsearch Infrastructure for Our Logging</title>
 <category>no tags yet</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1402498716135</link>
+<link>https://jdotpz.github.io/#gh-weblog-1402498716135</link>
 <guid>1402498716135</guid>
 <pubDate>Wed Jun 11 2014 09:58:36 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -30,7 +36,7 @@
 <category>ssl</category>
 <category>openssl</category>
 <category>vulnerability</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401985880435</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401985880435</link>
 <guid>1401985880435</guid>
 <pubDate>Thu Jun 05 2014 11:31:20 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -39,7 +45,7 @@
 <category>webmaker</category>
 <category>downtime</category>
 <category>monitoring</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401835762251</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401835762251</link>
 <guid>1401835762251</guid>
 <pubDate>Tue Jun 03 2014 17:49:22 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -50,13 +56,13 @@
 <category>hsts</category>
 <category>node</category>
 <category>nodejs</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401834125601</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401834125601</link>
 <guid>1401834125601</guid>
 <pubDate>Tue Jun 03 2014 17:22:05 GMT-0500 (CDT)</pubDate>
 </item><item>
 <title>Downtime Days</title>
 <category>no tags yet</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401825837233</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401825837233</link>
 <guid>1401825837233</guid>
 <pubDate>Tue Jun 03 2014 15:03:57 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -64,20 +70,20 @@
 <category>vmware</category>
 <category>aws</category>
 <category>infrastructure</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401637662500</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401637662500</link>
 <guid>1401637662500</guid>
 <pubDate>Sun Jun 01 2014 10:47:42 GMT-0500 (CDT)</pubDate>
 </item><item>
 <title>My Menu Bars: Not Nearly as Cluttered As My Bookmarks Bar</title>
 <category>tools</category>
 <category>mac</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401637232695</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401637232695</link>
 <guid>1401637232695</guid>
 <pubDate>Sun Jun 01 2014 10:40:32 GMT-0500 (CDT)</pubDate>
 </item><item>
 <title>This App May Be Amazing, I'm not sure</title>
 <category>no tags yet</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401626346883</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401626346883</link>
 <guid>1401626346883</guid>
 <pubDate>Sun Jun 01 2014 07:39:06 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -91,7 +97,7 @@
 <category>openbadges</category>
 <category>studiomofo</category>
 <category>appmaker</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401623757565</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401623757565</link>
 <guid>1401623757565</guid>
 <pubDate>Sun Jun 01 2014 06:55:57 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -100,7 +106,7 @@
 <category>seo</category>
 <category>javascript</category>
 <category>js</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401621650114</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401621650114</link>
 <guid>1401621650114</guid>
 <pubDate>Sun Jun 01 2014 06:20:50 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -111,14 +117,14 @@
 <category>node</category>
 <category>minimalist</category>
 <category>github</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401600698361</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401600698361</link>
 <guid>1401600698361</guid>
 <pubDate>Sun Jun 01 2014 00:31:38 GMT-0500 (CDT)</pubDate>
 </item><item>
 <title>Chuckling that the last post double posted.  </title>
 <category>lol</category>
 <category>gifs</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401599566909</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401599566909</link>
 <guid>1401599566909</guid>
 <pubDate>Sun Jun 01 2014 00:12:46 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -128,7 +134,7 @@
 <category>noob</category>
 <category>technology</category>
 <category>devops</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401594628557</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401594628557</link>
 <guid>1401594628557</guid>
 <pubDate>Sat May 31 2014 22:50:28 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -138,7 +144,7 @@
 <category>learning</category>
 <category>css</category>
 <category>fonts</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401593783256</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401593783256</link>
 <guid>1401593783256</guid>
 <pubDate>Sat May 31 2014 22:36:23 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -147,7 +153,7 @@
 <category>security</category>
 <category>tools</category>
 <category>apps</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401584196277</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401584196277</link>
 <guid>1401584196277</guid>
 <pubDate>Sat May 31 2014 19:56:36 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -157,7 +163,7 @@
 <category>apps</category>
 <category>services</category>
 <category>recommendations</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401578611779</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401578611779</link>
 <guid>1401578611779</guid>
 <pubDate>Sat May 31 2014 18:23:31 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -167,7 +173,7 @@
 <category>cardsagainsthumanity</category>
 <category>devopsagainsthumanity</category>
 <category>devops</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401577463015</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401577463015</link>
 <guid>1401577463015</guid>
 <pubDate>Sat May 31 2014 18:04:23 GMT-0500 (CDT)</pubDate>
 </item><item>
@@ -176,17 +182,9 @@
 <category>links</category>
 <category>gifs</category>
 <category>lol</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401576303515</link>
+<link>https://jdotpz.github.io/#gh-weblog-1401576303515</link>
 <guid>1401576303515</guid>
 <pubDate>Sat May 31 2014 17:45:03 GMT-0500 (CDT)</pubDate>
-</item><item>
-<title>Documenting DevOps in a public wiki</title>
-<category>documentation</category>
-<category>devops</category>
-<category>wiki</category>
-<link>https://jdotpz.github.io/#gh-weblog-1403069616535#gh-weblog-1401575965124</link>
-<guid>1401575965124</guid>
-<pubDate>Sat May 31 2014 17:39:25 GMT-0500 (CDT)</pubDate>
 </item>
 </channel>
 </rss>
